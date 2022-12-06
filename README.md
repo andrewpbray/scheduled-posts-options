@@ -14,7 +14,10 @@ Write a pre-render script that parses `_schedule.yml` and creates a tiny `_publi
 
 Downsides:
 - feels kludgy
-- generates a bunch of files (could .gitignore and keep in dedicated include directory to keep the source clean. Could also create a post-render script that clean out that directory. Still feels kludgy)
+- generates a bunch of files, though this could be addressed by
+  - adding files to .gitignore
+  - keep files in dedicated include directory
+  - create a post-render script to clean out that directory
 
 #### 2. Reference _variables.yml in document YAML
 
