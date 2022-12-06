@@ -1,5 +1,7 @@
 ---
 title: "Topic 3"
+author: "John Doe"
+date: "{{< var date.topic3 >}}"
 ---
 
 You may recognize each of these as summaries of the play, “Hamlet”. None of these are wrong, per se, but they do focus on very different aspects of the work. Summarizing something as rich and complex as Hamlet invariably involves a large degree of omission; we’re reducing a document of 29,551 words down to a single sentence, after all. But summarization also involves important choices around what to include.

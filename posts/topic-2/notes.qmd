@@ -1,8 +1,9 @@
 ---
 title: "Topic 2"
+author: "John Doe"
 ---
 
-{{< include publish-date.md >}}
+{{< include _publish-date.md >}}
 
 In truth, this plot could be consistent with all these claims. They are, in turn, a descriptive claim, a prediction, a generalization, and a causal claim. This newspaper headline falls squarely in the first category, a descriptive claim, which seeks only to describe the data set that is on hand.
 
