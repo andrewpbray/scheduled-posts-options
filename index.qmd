@@ -1,9 +1,9 @@
 ---
-title: "myprof"
 listing:
   contents: posts
   sort: "date desc"
   categories: false
+  type: default
 ---
 
-Here are the notes that you need to read.
+Here are the posts that will come out on a schedule.
